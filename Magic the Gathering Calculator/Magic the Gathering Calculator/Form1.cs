@@ -230,7 +230,7 @@ namespace Magic_the_Gathering_Calculator
                         cardsOpenedInPack = new double[] { 4 + 2.0 / 3.0, 1.8, 167.2 / 204.0, 23.2 / 204.0 };
                     }
                     break;
-                case (2): // Domenatia United
+                case (2): // Domenaria United
                     cardsInSet = new int[] { 101, 80, 60, 20 };
                     if (cmbBooster.SelectedIndex == 0)
                     {
