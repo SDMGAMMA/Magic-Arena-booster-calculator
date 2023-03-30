@@ -1,0 +1,20 @@
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\bin\Debug\Magic the Gathering Calculator.exe.config
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\bin\Debug\Magic the Gathering Calculator.exe
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\bin\Debug\Magic the Gathering Calculator.pdb
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic_the_Gathering_Calculator.Properties.Resources.resources
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.exe
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.pdb
+C:\Users\nicol\source\repos\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic_the_Gathering_Calculator.frmMagicTheGatheringCalculator.resources
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\bin\Debug\Magic the Gathering Calculator.exe.config
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\bin\Debug\Magic the Gathering Calculator.exe
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\bin\Debug\Magic the Gathering Calculator.pdb
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic_the_Gathering_Calculator.frmMagicTheGatheringCalculator.resources
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic_the_Gathering_Calculator.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.exe
+C:\Users\nicol\OneDrive\Bureaublad\Games\1 Clients\Magic the Gathering Calculator\Magic the Gathering Calculator\obj\Debug\Magic the Gathering Calculator.pdb
